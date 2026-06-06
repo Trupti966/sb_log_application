@@ -8,6 +8,7 @@ class TruptisLibraryApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
